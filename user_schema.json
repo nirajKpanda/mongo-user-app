@@ -1,0 +1,12 @@
+{
+    "username" : "admin",
+    "password" : "admin",
+    "roles" : ["admin"],
+    "first_name" : "admin",
+    "last_name" : "",
+    "email" : "abc@def.com",
+    "phone" : "1234567890",
+    "eid" : 123456,
+    "address" : "420 Bakers Street, London",
+    "zipcode" : 1234567
+}
